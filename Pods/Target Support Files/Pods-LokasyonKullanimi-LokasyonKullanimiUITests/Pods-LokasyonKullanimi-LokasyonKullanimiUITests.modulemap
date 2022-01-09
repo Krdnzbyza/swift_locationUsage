@@ -1,0 +1,6 @@
+framework module Pods_LokasyonKullanimi_LokasyonKullanimiUITests {
+  umbrella header "Pods-LokasyonKullanimi-LokasyonKullanimiUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
